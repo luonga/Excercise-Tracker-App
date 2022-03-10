@@ -1,6 +1,6 @@
 Excercise Tracker App
 
-A Single Page Application that tracks the user's excercises.  The user can add, edit, or delete excercises.  
+A Single Page Application that tracks the user's excercises.  The user can add, edit, or delete exercises.  
 I used React for the front-end UI app and a REST API using Node and Express for the back-end web service.  MongoDB was used for persistence.
 
 
